@@ -27,5 +27,5 @@ The system uses a file (`library.txt`) to store book data persistently. Every ti
    git clone https://github.com/your-username/Library-Management-System.git
 
    g++ library.cpp -o library
-./library
+   ./library
 
